@@ -36,7 +36,8 @@
         },
         "discount_value": {
             "type": [
-                "integer"
+                "integer",
+                "float"
             ]
         },
         "duration_period": {
